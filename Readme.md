@@ -1,4 +1,4 @@
-- username e password pela primeira vez, para ser armazenado.
+- username e password(token) pela primeira vez, para ser armazenado.
 
 - Configure o Git para armazenar suas credenciais usando o seguinte comando:
  
